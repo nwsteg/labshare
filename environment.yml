@@ -1,8 +1,9 @@
+name: myenv
 channels:
   - conda-forge
 dependencies:
-  - python==3.11
-  - voila==0.5.5
+  - python=3.11
+  - voila=0.5.5
   - numpy
   - psutil
   - toolz
