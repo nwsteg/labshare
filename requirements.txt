@@ -1,3 +1,4 @@
+viola
 bqplot
 ipympl
 ipyvolume
@@ -5,4 +6,3 @@ scipy
 numpy
 matplotlib
 pandas
-voila
