@@ -1,8 +1,0 @@
-voila
-bqplot
-ipympl
-ipyvolume
-scipy
-numpy
-matplotlib
-pandas
