@@ -13,6 +13,3 @@ dependencies:
   - scipy
   - xleaflet=0.8.0
   - xeus-cling=0.6.0
-  - pip
-  - pip:
-      - -r requirements.txt

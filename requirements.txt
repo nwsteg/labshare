@@ -1,5 +1,0 @@
-voila
-numpy
-matplotlib
-pandas
-ipympl
